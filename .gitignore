@@ -26,3 +26,6 @@ hs_err_pid*
 /lazyproxy-server/src/main/resources/application.properties
 /lazyproxy-server/mvnw
 /lazyproxy-server/mvnw.cmd
+/lazyproxy-common/lazyproxy-common.iml
+/lazyproxy-client/lazyproxy-client.iml
+/lazyproxy-server/lazyproxy-server.iml
