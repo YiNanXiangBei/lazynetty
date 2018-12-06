@@ -35,6 +35,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.yinan</groupId>
+            <artifactId>lazyproxy-common</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <build>

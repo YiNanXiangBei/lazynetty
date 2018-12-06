@@ -10,10 +10,11 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.netty</groupId>
-            <artifactId>netty-all</artifactId>
-            <version>4.1.29.Final</version>
+            <groupId>org.yinan</groupId>
+            <artifactId>lazyproxy-common</artifactId>
+            <version>1.0</version>
         </dependency>
+
     </dependencies>
 
 
